@@ -12,5 +12,5 @@
 ### Screenshots 
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/gWB5RTL/Screenshot-20210228-024557.png" alt="photo-Editor1" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/y0QVs1c/photo-Editor2.jpg" alt="photo-Editor2" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/HNZp3Nx/Screenshot-20210228-025236.png" alt="photo-Editor2" border="0"></a>
 
